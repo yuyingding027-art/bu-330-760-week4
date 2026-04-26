@@ -1,3 +1,6 @@
+video link: https://youtu.be/YlvwC2Sx-p8
+.env is in local disk
+
 # Week 4 Starter: Math Agent
 
 A ReAct agent that solves questions using tool calls.
